@@ -4,9 +4,9 @@ public class HelloWorld {
 
         System.out.println("Hello! Jenkins CI/CD Pipeline");
 
-        System.out.println("Build Successful!");
+        System.out.println("Code Updated Successfully!");
 
-        System.out.println("Testing Successful!");
+        System.out.println("Continuous Integration Demonstrated!");
 
     }
 }
